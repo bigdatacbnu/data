@@ -13,9 +13,9 @@ https://github.com/bigdatacbnu/data/tree/LeeSeungYeon/LeeSeungYeon/images
 
 에 업로드함
 
-  데이터 추출 이미지
-  샤딩 이미지
-  시각화 결과 이미지
+* 데이터 추출 이미지
+* 샤딩 이미지
+* 시각화 결과 이미지
 
 # 도움 요청
 subplot 제대로 출력이 안됨
